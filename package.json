@@ -1,0 +1,47 @@
+{
+  "name": "calendar-test",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@bryntum/calendar": "npm:@bryntum/calendar-trial@^6.0.1",
+    "@bryntum/calendar-angular": "^6.0.1",
+    "@bryntum/calendar-react": "^6.0.1",
+    "@progress/kendo-drawing": "^1.20.1",
+    "@progress/kendo-licensing": "^1.3.5",
+    "@progress/kendo-react-buttons": "^8.1.1",
+    "@progress/kendo-react-dialogs": "^8.1.1",
+    "@progress/kendo-react-dropdowns": "^8.1.1",
+    "@progress/kendo-react-editor": "^8.1.1",
+    "@progress/kendo-react-inputs": "^8.1.1",
+    "@progress/kendo-react-intl": "^8.1.1",
+    "@progress/kendo-react-layout": "^8.1.1",
+    "@progress/kendo-react-pdf": "^8.1.1",
+    "@progress/kendo-react-popup": "^8.1.1",
+    "@progress/kendo-react-progressbars": "^8.1.1",
+    "@progress/kendo-svg-icons": "^3.0.0",
+    "@schedule-x/calendar": "^1.51.0",
+    "@schedule-x/react": "^1.50.0",
+    "@schedule-x/theme-default": "^1.51.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@typescript-eslint/eslint-plugin": "^7.13.1",
+    "@typescript-eslint/parser": "^7.13.1",
+    "@vitejs/plugin-react": "^4.3.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react-hooks": "^4.6.2",
+    "eslint-plugin-react-refresh": "^0.4.7",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1"
+  }
+}
