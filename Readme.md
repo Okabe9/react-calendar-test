@@ -1,6 +1,7 @@
 # Test Calendarios
 
 ## Bryntum
+![Imagen por defecto de instalación de Bryntum](https://lh7-us.googleusercontent.com/docsz/AD_4nXdND20FEbZwKmvNjMmGB-h4PM3kgIZbXylKwljoKhlGwM_dmpjlCo95-X-RAbMngLvbTGv3N9qZ4YjoUKOtlwBAmTP9eaDMTIy9FLWhZ2XQSaTZ0HiOJmkD7BkSESxoQcI_ee2uI7Fv0bk5ZI-JbOnTDwPx?key=jjhieqx0aCb2vh98-b0bQA) *Apariencia por defecto de Bryntum*
 
 ### Ventajas
 - Fácil de instalar y configurar
