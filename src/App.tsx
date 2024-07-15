@@ -1,7 +1,7 @@
 import { FunctionComponent, useRef } from 'react';
 import { BryntumCalendar } from '@bryntum/calendar-react';
 import { calendarProps } from './CalendarConfig';
-import './App.scss';
+import './App.css';
 
 const App: FunctionComponent = () => {
 
